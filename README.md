@@ -1,8 +1,3 @@
-A well-structured `README.md` file is crucial for any project. Here is a professional and informative draft you can use. This version is written directly as a text response for you to copy and paste.
-
-### 📝 `README.md`
-
-````markdown
 # Local LLM Agent
 
 This project provides a powerful framework for building and running AI agents locally using open-source Large Language Models (LLMs). By leveraging a local setup, you can ensure data privacy and reduce dependency on external APIs, all while maintaining powerful agentic capabilities.
