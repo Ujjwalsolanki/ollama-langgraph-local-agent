@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-community
+langchain-core
+langchain-ollama
+ollama
+pytz
