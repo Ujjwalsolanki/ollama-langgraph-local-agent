@@ -42,7 +42,7 @@ Once you have the prerequisites installed and Ollama running, you can interact w
 python main.py
 ````
 
-Follow the prompts in the terminal to start a conversation with your local agent.
+Note: While the project name includes "langgraph," the current implementation uses a sequential LangChain agent for its core logic. We plan to integrate a stateful langgraph workflow in a future version to enable more complex, multi-step agentic behaviors.
 
 ## ❓ Getting Help & Support
 
